@@ -1,4 +1,4 @@
-A Toggle that handles the must-include and must-omit relations in a smart way
+A library that handles the must-include and must-omit relations in a smart way
 Ever wanted to maintain a list of elements, where when you add one element,
 you have to add its dependancies, and remove its exclusivity obstacles.
 
